@@ -1,0 +1,24 @@
+message: Please cite this software using these metadata.
+title:Start na Cozinha
+authors:
+  - family-names: Beatriz Araújo Brandão
+    given-names: Ana
+  - family-names: Slaviero da Cunha 
+    given-names: Caio
+  - family-names: Silva Aguiar
+    given-names: Clarence
+  - family-names: Cota da Fonseca
+    given-names: Estevão
+  - family-names: de Oliveira Mendonça
+    given-names: Gabriel
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Christina de Paiva Carvalho
+    given-names: Joyce
+keywords:
+  - Cozinha
+  - Receitas
+  - Aprender	
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t2-projeto_start_na_cozinha_g4.git
+version: 1.0.0
+date-released: 2023-11-30
